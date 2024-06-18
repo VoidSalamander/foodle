@@ -1,5 +1,7 @@
 # foodle
 
+將foodle_db放在 appserv/www 中，使用 foodle_db.sql 來創建範例資料庫
+
 ## Project setup
 ```
 npm install
@@ -10,10 +12,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+使用管理員帳號
+帳號 root
+密碼 root
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
