@@ -16,3 +16,8 @@ npm run serve
 帳號 root
 密碼 root
 
+檔案說明
+foodle_db 後端與資料庫
+src 前端程式碼
+package.json 依賴安裝檔
+其他不重要
