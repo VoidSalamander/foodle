@@ -320,7 +320,7 @@ INSERT INTO `userdata` (`ID`, `username`, `password`, `email`, `play_count`, `wi
 (10, 'test', '$2y$10$eBJ3WvkhTiOEch7vfe1u0OJ2HP4ezyAtX.EtajrlUILMN.RJouarS', 'test@gmail.com', 8, 8),
 (12, 'z', '$2y$10$8dodbxNshFoUvz9n9FO2ouyK6uUqzV6KE8sxkdXrVCSyLWgHu1TPG', 'a@10344', 0, 0),
 (13, 'gordon', '$2y$10$Fz5FWO/HZ5ZWUKUmTc0xrOUX5cEVc6IX/TC32bFkD5KFulLL.UBpq', 'aasaa', 0, 0),
-(14, 'root', '$2y$10$av2ayESD0yoyHRo1JXutR.kIciozFQu8IzvNZzgyDxoomshnLIoJe', 'r@e.w', 0, 0),
+(3, 'root', '$2y$10$av2ayESD0yoyHRo1JXutR.kIciozFQu8IzvNZzgyDxoomshnLIoJe', 'r@e.w', 0, 0),
 (15, '呂冠磊', '$2y$10$cHE1JSFjydFyY.i8TUsjQOWmt5MCTEb/Dn70LEmo2HMK2gwryduXy', 'nice7415296@gmail.com', 0, 0),
 (16, 'nice', '$2y$10$XQdNWqi18YoF7E70GZPG6uGTiLNaasy1n.u.0Ct2uitcNuOYaQnVq', 'kol7415296@gmail.com', 0, 0);
 
